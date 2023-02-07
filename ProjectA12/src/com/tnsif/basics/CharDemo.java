@@ -1,6 +1,7 @@
 package com.tnsif.basics;
 
 public class CharDemo {
+	int b=65;
 	public static void main(String[] args) {
 		// assigning single character literal
 		char ch = 'a';
@@ -20,7 +21,6 @@ public class CharDemo {
 
 		// ASCI code representation
 		int a = 'A';
-		System.out.println(a);
-		
+		System.out.println(a);	
 	}
 }
